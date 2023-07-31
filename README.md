@@ -1,2 +1,11 @@
-# WWDC2016-Theme-For-Xcode14
- WWDC2016 Xcode Theme
+# WWDC2016-Theme-For-Xcode
+### Preview
+
+![](Preview.png)
+
+
+
+### Installation Path
+
+`~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+
